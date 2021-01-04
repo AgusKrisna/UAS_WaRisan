@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434680565431",
+    "project_id": "uas-warisan-51a95",
+    "storage_bucket": "uas-warisan-51a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434680565431:android:29e31f82fd6b5437fb4732",
+        "android_client_info": {
+          "package_name": "com.example.uas_warisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434680565431-6dek1tf94f6omv1rv0neoj463mjd6757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B_Y287FTWue52BKNeKvxp_Bq3uyHwEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434680565431-6dek1tf94f6omv1rv0neoj463mjd6757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
